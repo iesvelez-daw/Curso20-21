@@ -34,6 +34,7 @@
 - [Delgado Paniagua, Valle](https://github.com/Yaye83) :octocat: `Yaye83`
 - [Fernández Velarde, Juan Manuel](https://github.com/juanmaferv96) :octocat: `juanmaferv96`
 - [García Castilla, Manuel](https://github.com/ManuelGC98) :octocat: `ManuelGC98`
+    - [Otro](https://github.com/ManuelGC4) :octocat: `ManuelGC4`
 - [García Martín, Javier](https://github.com/Jagama98) :octocat: `Jagama98`
 - [González Lozada, José Miguel](https://github.com/z3myY) :octocat: `z3myY`
 - [Gutiérrez Delgado, Jesús David](https://github.com/jesusdavidguti) :octocat: `jesusdavidguti`
