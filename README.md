@@ -5,25 +5,25 @@
 ### 1º DAW
 
 - [Agulló López, Erick](https://github.com/) :octocat: 
-- [Aranda Cañada, Antonio Jesús](https://github.com/) :octocat: 
-- [Arraz Alé, Alberto](https://github.com/) :octocat: 
-- [Bermudo Villaécija, Rafael](https://github.com/) :octocat: 
-- [Cabeza Acal, Francisco José](https://github.com/) :octocat: 
-- [Cabeza Acal, Pablo](https://github.com/) :octocat: 
-- [Costa Lucena, Juan Miguel](https://github.com/) :octocat: 
-- [Delgado Bolancé, Salvador](https://github.com/) :octocat: 
+- [Aranda Cañada, Antonio Jesús](https://github.com/haxezeta) :octocat: `haxezeta`
+- [Arraz Alé, Alberto](https://github.com/AlbertoArraz) :octocat: `AlbertoArraz`
+- [Bermudo Villaécija, Rafael](https://github.com/rafaelbv95) :octocat: `rafaelbv95`
+- [Cabeza Acal, Francisco José](https://github.com/Langdom91) :octocat: `Langdom91`
+- [Cabeza Acal, Pablo](https://github.com/cabeezaa01) :octocat: `cabeezaa01`
+- [Costa Lucena, Juan Miguel](https://github.com/JuanmiCLucena) :octocat: `JuanmiCLucena`
+- [Delgado Bolancé, Salvador](https://github.com/salvi-v) :octocat: `salvi-v`
 - [García Gómez, Oscar](https://github.com/) :octocat: 
 - [Garrido González, José Manuel](https://github.com/) :octocat: 
-- [Gómez Jiménez, José Javier](https://github.com/) :octocat: 
+- [Gómez Jiménez, José Javier](https://github.com/Joseja0202) :octocat: `Joseja0202`
 - [González Moya, Jorge](https://github.com/) :octocat: 
-- [González Rivera, Juan Antonio](https://github.com/) :octocat: 
-- [Martos Alfaro, Juan Manuel](https://github.com/) :octocat: 
+- [González Rivera, Juan Antonio](https://github.com/Deg42) :octocat: `Deg42`
+- [Martos Alfaro, Juan Manuel](https://github.com/Juarma95) :octocat: `Juarma95`
 - [Mata Villén, Miguel Ángel](https://github.com/) :octocat: 
 - [Oterino Pérez, Francisco](https://github.com/) :octocat: 
-- [Prieto Gómez, Christian](https://github.com/) :octocat: 
-- [Serrano Ruiz, Laura](https://github.com/) :octocat: 
-- [Solanas Barrera, Román](https://github.com/) :octocat: 
-- [Veragua Cabrera, Francisco](https://github.com/) :octocat: 
+- [Prieto Gómez, Christian](https://github.com/ChristianPrieto) :octocat: `ChristianPrieto`
+- [Serrano Ruiz, Laura](https://github.com/lsrdaw) :octocat: `lsrdaw`
+- [Solanas Barrera, Román](https://github.com/RomanCito-969) :octocat: `RomanCito-969` 
+- [Veragua Cabrera, Francisco](https://github.com/fco-veragua) :octocat: `fco-veragua`
 
 
 
