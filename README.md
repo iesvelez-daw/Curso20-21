@@ -15,7 +15,7 @@
 - [García Gómez, Oscar](https://github.com/) :octocat: 
 - [Garrido González, José Manuel](https://github.com/) :octocat: 
 - [Gómez Jiménez, José Javier](https://github.com/Joseja0202) :octocat: `Joseja0202`
-- [González Moya, Jorge](https://github.com/) :octocat: 
+- [González Moya, Jorge](https://github.com/Elchancleta) :octocat: `Elchancleta`
 - [González Rivera, Juan Antonio](https://github.com/Deg42) :octocat: `Deg42`
 - [Martos Alfaro, Juan Manuel](https://github.com/Juarma95) :octocat: `Juarma95`
 - [Mata Villén, Miguel Ángel](https://github.com/) :octocat: 
