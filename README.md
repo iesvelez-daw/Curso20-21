@@ -21,7 +21,7 @@
 - [Mata Villén, Miguel Ángel](https://github.com/) :octocat: 
 - [Oterino Pérez, Francisco](https://github.com/) :octocat: 
 - [Prieto Gómez, Christian](https://github.com/ChristianPrieto) :octocat: `ChristianPrieto`
-- [Serrano Ruiz, Laura](https://github.com/lsrdaw) :octocat: `lsrdaw`
+- [Serrano Ruiz, Laura](https://github.com/lauraaa96) :octocat: `lauraaa96`
 - [Solanas Barrera, Román](https://github.com/RomanCito-969) :octocat: `RomanCito-969` 
 - [Veragua Cabrera, Francisco](https://github.com/fco-veragua) :octocat: `fco-veragua`
 
