@@ -12,7 +12,7 @@
 - [Cabeza Acal, Pablo](https://github.com/cabeezaa01) :octocat: `cabeezaa01`
 - [Costa Lucena, Juan Miguel](https://github.com/JuanmiCLucena) :octocat: `JuanmiCLucena`
 - [Delgado Bolancé, Salvador](https://github.com/salvi-v) :octocat: `salvi-v`
-- [García Gómez, Oscar](https://github.com/) :octocat: 
+- [García Gómez, Oscar](https://github.com/oscargargom) :octocat: `oscargargom`
 - [Garrido González, José Manuel](https://github.com/) :octocat: 
 - [Gómez Jiménez, José Javier](https://github.com/Joseja0202) :octocat: `Joseja0202`
 - [González Moya, Jorge](https://github.com/Elchancleta) :octocat: `Elchancleta`
